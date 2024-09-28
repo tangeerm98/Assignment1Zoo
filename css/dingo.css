@@ -1,0 +1,38 @@
+body {
+  font-family: "Comic Sans MS";
+  background-image: url('/img/junglecore.gif'); 
+  background-repeat: repeat; 
+  background-size: auto; 
+  background-color: yellow; /* Fallback color if image isn't loaded */
+  text-align: center;
+  color: yellow;
+  
+}
+
+p {
+  font-family: "Times New Roman", Times, serif; 
+  color: white; 
+  -webkit-text-stroke: 0; 
+}
+
+h1, h2 {
+  /*text-stroke: 1px green;*/ 
+  -webkit-text-stroke: 1px green;
+}
+
+img {
+  width: 50%; 
+  height: 50%; 
+}
+
+.animal-image {
+  display: block; 
+  margin: 0 auto; 
+}
+
+.centered-text {
+  text-align: center; 
+  max-width: 80%; 
+  margin: 0 auto; 
+  overflow-wrap: break-word; 
+}
