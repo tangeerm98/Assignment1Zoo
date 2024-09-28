@@ -1,4 +1,41 @@
+
+
+READ ME FILE 
+GROUP MEMBERS : TANGEER MOSOBBIR, JOEL URENA, DOUGLAS ROLLMAN
+
+git hub deployed webpage link:  https://tangeerm98.github.io/Assignment1Zoo/index.html
+
+github usernames:
+
+tangeer.mosobbir73@myhunter.cuny.edu
+douglaswrollman@gmail.com
+joelurena711@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # zoo-starter-code
+
+
+
+
 
 This repository is the starter code for Assignment 1 - Zoo.
 
